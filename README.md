@@ -1,4 +1,4 @@
-# #Calculadora Remota de Expressões 🧮
+# #Calculadora Remota de Expressões 
 Este é um projeto de uma calculadora cliente-servidor desenvolvida em Python. A aplicação utiliza a biblioteca socket para permitir que as operações matemáticas sejam processadas de forma remota.
 
 O cliente envia os dados através de uma interface, o servidor realiza o cálculo lógico e devolve o resultado em tempo real.
