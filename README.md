@@ -14,7 +14,7 @@ Linguagem: Python 3.x
 
 Biblioteca Principal: socket (comunicação de rede)
 
-Interface: (Se você usou Tkinter ou CustomTkinter, pode citar aqui)
+Interface: Tkinter
 
 # Estrutura de Arquivos
 src/servidor.py: Contém a lógica de processamento e aguarda conexões.
